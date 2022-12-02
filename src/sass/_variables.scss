@@ -1,0 +1,42 @@
+:root {
+    --main-text-color: #000000;
+    --accent-color: #f7941e;
+    --secondery-color: #ffffff;
+    --about-color: #f1f1f2;
+    --gray-background: #fafafa;
+  }
+  body {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  button {
+    font-family: inherit;
+  }
+  
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  p {
+    margin: 0;
+  }
+  
+  .list {
+    list-style: none;
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 1200px;
+    padding: 0 15px;
+  }
